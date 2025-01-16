@@ -1,0 +1,99 @@
+﻿/* Centralizar o formulário */
+/* Fundo com imagem de Marte */
+body {
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+    background-image: url('../img/mars-5564141_1920.jpg'); /* Caminho para a imagem de fundo */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.wrapper {
+    width: 400px;
+    margin: 100px auto; /* Ajusta a margem para centralizar verticalmente */
+    background: rgba(0, 0, 0, 0.6); /* Fundo semi-transparente */
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+    color: #fff;
+    text-align: center;
+}
+
+/* Estilizar o título */
+.wrapper h1 {
+    font-size: 32px;
+    margin-bottom: 20px;
+    color: #fff;
+}
+
+/* Estilizar os campos de entrada */
+.input-box {
+    position: relative;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.input-box input {
+    width: 100%;
+    padding: 15px 20px;
+    border: none;
+    border-radius: 25px;
+    background: rgba(255, 255, 255, 0.2);
+    color: #fff;
+    outline: none;
+    font-size: 16px;
+}
+
+/* Ícones dentro dos campos */
+.input-box i {
+    position: absolute;
+    right: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #fff;
+    font-size: 20px;
+}
+
+/* Botão de Login */
+.btn {
+    width: 100%;
+    padding: 15px;
+    border: none;
+    border-radius: 25px;
+    background: #fff;
+    color: #333;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.btn:hover {
+    background: #f1f1f1;
+}
+
+/* Link para registro */
+.register-link {
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+.register-link a {
+    color: #fff;
+    text-decoration: underline;
+}
+
+/* Texto "Esqueceu a senha" */
+.remember-forgot {
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+    color: #fff;
+    margin: -10px 0 15px;
+}

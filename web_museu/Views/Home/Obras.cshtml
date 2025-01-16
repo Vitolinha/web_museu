@@ -1,0 +1,177 @@
+﻿
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/style.css" asp-append-version="true">
+    <title>AstroMarte</title>
+</head>
+<body>
+    <div class="background-preto">
+        <div class="container">
+            <!--cabecalho-->
+            <header>
+
+                <!--inicio container-->
+                <div class="container">
+                    <nav>
+                        <div class="logo">
+                            <img src="img/logo_astromarte.png" class="astromarte">
+
+                        </div>
+
+                        <ul class="ul">
+                            <li> @Html.ActionLink("Home", "Index", "Home")</li>
+                            <li> @Html.ActionLink("Obras", "Obras", "Home")</li>
+                            <li> @Html.ActionLink("Avaliação", "Avaliação", "Home")</li>
+                            <li><button class="btn-gradient"> @Html.ActionLink("Começar", "Iniciar", "Home")</button></li>
+                        </ul>
+
+                        <div class="menu-icon">
+                            <img src="img/menu.png" alt="icone de menu">
+
+                        </div>
+                    </nav>
+                </div>
+                <!--final container-->
+
+            </header>
+            <!--final cabecalho-->
+        </div>
+
+        <main>
+            <div class="container">
+                <div class="main-text">
+                    <h1>Odisséia Rubra</h1>
+                    <h2>Expedição ao Planeta Vermelho</h2>
+                    <div>
+                        <button class="btn-gradient">Reservar agora</button>
+                        <img src="/img/verificado.png" alt="Verificado" asp-append-version="true">
+                    </div>
+                </div>
+                
+            </div>
+        </main>
+    </div>
+    <section class="satisfacao">
+        <div class="container">
+            <div class="satisfacao-text">
+                Da Terra a Marte: Uma experiência fora deste mundo.
+            </div>
+            <div class="satisfacao-numero">
+                <p><span>+50 mil</span><br>Visitas</p>
+                <p><span>+20 funcionarios</span><br>funcionarios</p>
+                <p><span>+60 mil obras</span><br>Obras</p>
+            </div>
+        </div>
+    </section>
+    <section class="diferenciais">
+        <div class="container">
+            <div class="card">
+                <img src="~/img/medal.png" alt="medalha" asp-append-version="true">
+                <h3 class="titulo">medalha</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, laudantium? Illo optio porro ab deserunt?</p>
+            </div>
+            <div class="card">
+                <img src="~/img/24h.png" alt="24horas" asp-append-version="true">
+                <h3 class="titulo">Carro</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti sed, minima neque temporibus incidunt hic!</p>
+            </div>
+            <div class="card">
+                <img src="~/img/caixa.png" alt="caixa" asp-append-version="true">
+                <h3 class="titulo">caixa</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae ducimus voluptatum deserunt cumque ea!</p>
+            </div>
+        </div>
+    </section>
+    <section class="casa">
+        <div class="container">
+            <div class="casa-img">
+                <img src="img/casa.png" alt="minha futura casa">
+            </div>
+            <div class="casa-text">
+                <h2>Espetáculos interativos e atrações de tirar o fôlego</h2>
+                <p>As apresentações vão a todos os espaços da nossa galáxia, do começo ao fim, de A a Z. Nosso objetivo principal é agregar conhecimento aos nossos espectadores.</p>
+                <img src="img/user-happy.png" alt="">
+                <p>
+                    <b>Inúmeros Visitantes felizes</b>
+                </p>
+            </div>
+        </div>
+
+
+    </section>
+    <section>
+    </section>
+    <section class="melhores-lugares">
+        <div class="container">
+            <p class="azul">Onde estamos localizados</p>
+            <h2>Um dos melhores múseus de Sorocaba</h2>
+            <div class="cards">
+                <div class="card-item">
+                    <img src="img/casa1.png" alt="casa 1">
+                    <p class="local-casa">Sorocaba, SP</p>
+                    <p class="nome-casa">AstroMarte</p>
+                    <p class="contato">
+                        (15) 3333-3333 <br> astromarte.expo@gmail.com
+                    </p>
+                    <button>Venha nos visitar!</button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="newsletter">
+        <div class="container">
+            <div class="box-newsletter">
+                <h2>Seja inscrito na nossa newsletter</h2>
+                <p>Inscreva-se para receber mais conteúdos, novidades e dicas importantes.</p>
+                <form>
+                    <input type="email" placeholder="Digite seu email">
+                    <button>Inscrever-se</button>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <ul>
+                <h3>Mr Studio</h3>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa tempora dolorem neque? Ipsum sit cum quos reiciendis maiores fugit! Voluptates.</p>
+                <div class="redes-sociais">
+                    <img src="~/img/facebook.png" alt="facebook" asp-append-version="true">
+                    <img src="~/img/twitter.png" alt="twitter" asp-append-version="true">
+                    <img src="~/img/instagram.png" alt="instagram" asp-append-version="true">
+                    <img src="~/img/linkedin.png" alt="linkedin" asp-append-version="true">
+                </div>
+            </ul>
+            <ul>
+                <h3>Link</h3>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Preços</a></li>
+                <li><a href="#">Baixar</a></li>
+                <li><a href="#">Sobre</a></li>
+                <li><a href="#">Serviços</a></li>
+            </ul>
+            <ul>
+                <h3>FAQ</h3>
+                <li><a href="#">Como funciona</a></li>
+                <li><a href="#">Caracteristicas</a></li>
+                <li><a href="#">Contato</a></li>
+                <li><a href="#">Comunicando</a></li>
+            </ul>
+            <ul>
+                <h3>Nos Contate</h3>
+                <li>+55 (15) 3333-3333</li>
+                <li>astromarte.expo@gmail.com</li>
+                <li>Brasil</li>
+            </ul>
+        </div>
+    </footer>
+
+    <script src="js/main.js" asp-append-version="true"></script>
+</body>
+</html>
+

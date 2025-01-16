@@ -1,0 +1,482 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gu\\Desktop\\web_museu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|c:\\users\\gu\\desktop\\web_museu\\web_museu\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|solutionrelative:web_museu\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|c:\\users\\gu\\desktop\\web_museu\\web_museu\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|solutionrelative:web_museu\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|c:\\users\\gu\\desktop\\web_museu\\web_museu\\views\\contato\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|solutionrelative:web_museu\\views\\contato\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|c:\\users\\gu\\desktop\\web_museu\\web_museu\\views\\home\\obras.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|solutionrelative:web_museu\\views\\home\\obras.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|c:\\users\\gu\\desktop\\web_museu\\web_museu\\wwwroot\\index.html.__projection.g.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|solutionrelative:web_museu\\wwwroot\\index.html.__projection.g.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|c:\\users\\gu\\desktop\\web_museu\\web_museu\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|solutionrelative:web_museu\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|c:\\users\\gu\\desktop\\web_museu\\web_museu\\views\\usuario\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|solutionrelative:web_museu\\views\\usuario\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|c:\\users\\gu\\desktop\\web_museu\\web_museu\\views\\usuario\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|solutionrelative:web_museu\\views\\usuario\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|c:\\users\\gu\\desktop\\web_museu\\web_museu\\views\\usuario\\apagarconfirmacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|solutionrelative:web_museu\\views\\usuario\\apagarconfirmacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|c:\\users\\gu\\desktop\\web_museu\\web_museu\\models\\contatomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|solutionrelative:web_museu\\models\\contatomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|c:\\users\\gu\\desktop\\web_museu\\web_museu\\repositorio\\contatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|solutionrelative:web_museu\\repositorio\\contatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|c:\\users\\gu\\desktop\\web_museu\\web_museu\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|solutionrelative:web_museu\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|c:\\users\\gu\\desktop\\web_museu\\web_museu\\views\\contato\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|solutionrelative:web_museu\\views\\contato\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|c:\\users\\gu\\desktop\\web_museu\\web_museu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|solutionrelative:web_museu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|c:\\users\\gu\\desktop\\web_museu\\web_museu\\data\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|solutionrelative:web_museu\\data\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|c:\\users\\gu\\desktop\\web_museu\\web_museu\\controllers\\obrascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|solutionrelative:web_museu\\controllers\\obrascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|c:\\users\\gu\\desktop\\web_museu\\web_museu\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|solutionrelative:web_museu\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|c:\\users\\gu\\desktop\\web_museu\\web_museu\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|solutionrelative:web_museu\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|c:\\users\\gu\\desktop\\web_museu\\web_museu\\viewcomponents\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|solutionrelative:web_museu\\viewcomponents\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|c:\\users\\gu\\desktop\\web_museu\\web_museu\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|solutionrelative:web_museu\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|c:\\users\\gu\\desktop\\web_museu\\web_museu\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|solutionrelative:web_museu\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|c:\\users\\gu\\desktop\\web_museu\\web_museu\\views\\shared\\components\\menu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|solutionrelative:web_museu\\views\\shared\\components\\menu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|c:\\users\\gu\\desktop\\web_museu\\web_museu\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|solutionrelative:web_museu\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|c:\\users\\gu\\desktop\\web_museu\\web_museu\\views\\questionario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|solutionrelative:web_museu\\views\\questionario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|c:\\users\\gu\\desktop\\web_museu\\web_museu\\views\\obras\\obras.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|solutionrelative:web_museu\\views\\obras\\obras.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|c:\\users\\gu\\desktop\\web_museu\\web_museu\\views\\shared\\_layoutdeslogado.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|solutionrelative:web_museu\\views\\shared\\_layoutdeslogado.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|c:\\users\\gu\\desktop\\web_museu\\web_museu\\views\\shared\\_layoutdeslogado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9782C6F-E260-4E4C-8688-06C00987BB2B}|web_museu\\web_museu.csproj|solutionrelative:web_museu\\views\\shared\\_layoutdeslogado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Obras.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\Views\\Home\\Obras.cshtml",
+              "RelativeDocumentMoniker": "web_museu\\Views\\Home\\Obras.cshtml",
+              "ToolTip": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\Views\\Home\\Obras.cshtml",
+              "RelativeToolTip": "web_museu\\Views\\Home\\Obras.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T15:15:03.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.html.__projection.g.js",
+              "DocumentMoniker": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\wwwroot\\index.html.__projection.g.js",
+              "RelativeDocumentMoniker": "web_museu\\wwwroot\\index.html.__projection.g.js",
+              "ToolTip": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\wwwroot\\index.html.__projection.g.js",
+              "RelativeToolTip": "web_museu\\wwwroot\\index.html.__projection.g.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-29T15:13:58.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\Views\\Usuario\\Index.cshtml",
+              "RelativeDocumentMoniker": "web_museu\\Views\\Usuario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\Views\\Usuario\\Index.cshtml",
+              "RelativeToolTip": "web_museu\\Views\\Usuario\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T15:13:36.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\Views\\Usuario\\Editar.cshtml",
+              "RelativeDocumentMoniker": "web_museu\\Views\\Usuario\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\Views\\Usuario\\Editar.cshtml",
+              "RelativeToolTip": "web_museu\\Views\\Usuario\\Editar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T15:13:34.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApagarConfirmacao.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\Views\\Usuario\\ApagarConfirmacao.cshtml",
+              "RelativeDocumentMoniker": "web_museu\\Views\\Usuario\\ApagarConfirmacao.cshtml",
+              "ToolTip": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\Views\\Usuario\\ApagarConfirmacao.cshtml",
+              "RelativeToolTip": "web_museu\\Views\\Usuario\\ApagarConfirmacao.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T15:13:33.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContatoModel.cs",
+              "DocumentMoniker": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\Models\\ContatoModel.cs",
+              "RelativeDocumentMoniker": "web_museu\\Models\\ContatoModel.cs",
+              "ToolTip": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\Models\\ContatoModel.cs",
+              "RelativeToolTip": "web_museu\\Models\\ContatoModel.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T14:50:31.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\Views\\Contato\\Index.cshtml",
+              "RelativeDocumentMoniker": "web_museu\\Views\\Contato\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\Views\\Contato\\Index.cshtml",
+              "RelativeToolTip": "web_museu\\Views\\Contato\\Index.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T14:46:17.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\Views\\Contato\\Editar.cshtml",
+              "RelativeDocumentMoniker": "web_museu\\Views\\Contato\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\Views\\Contato\\Editar.cshtml",
+              "RelativeToolTip": "web_museu\\Views\\Contato\\Editar.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T14:45:23.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "web_museu\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "web_museu\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAACIDAAAAAAAAAAAqwDgDAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-29T11:49:59.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "web_museu\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "web_museu\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAowD8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T12:07:51.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ObrasController.cs",
+              "DocumentMoniker": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\Controllers\\ObrasController.cs",
+              "RelativeDocumentMoniker": "web_museu\\Controllers\\ObrasController.cs",
+              "ToolTip": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\Controllers\\ObrasController.cs",
+              "RelativeToolTip": "web_museu\\Controllers\\ObrasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T14:50:53.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BancoContext.cs",
+              "DocumentMoniker": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\Data\\BancoContext.cs",
+              "RelativeDocumentMoniker": "web_museu\\Data\\BancoContext.cs",
+              "ToolTip": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\Data\\BancoContext.cs",
+              "RelativeToolTip": "web_museu\\Data\\BancoContext.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T14:51:01.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ContatoController.cs",
+              "DocumentMoniker": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\Controllers\\ContatoController.cs",
+              "RelativeDocumentMoniker": "web_museu\\Controllers\\ContatoController.cs",
+              "ToolTip": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\Controllers\\ContatoController.cs",
+              "RelativeToolTip": "web_museu\\Controllers\\ContatoController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAmwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T14:43:42.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ContatoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\Repositorio\\ContatoRepositorio.cs",
+              "RelativeDocumentMoniker": "web_museu\\Repositorio\\ContatoRepositorio.cs",
+              "ToolTip": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\Repositorio\\ContatoRepositorio.cs",
+              "RelativeToolTip": "web_museu\\Repositorio\\ContatoRepositorio.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T14:32:53.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Criar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\Views\\Usuario\\Criar.cshtml",
+              "RelativeDocumentMoniker": "web_museu\\Views\\Usuario\\Criar.cshtml",
+              "ToolTip": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\Views\\Usuario\\Criar.cshtml",
+              "RelativeToolTip": "web_museu\\Views\\Usuario\\Criar.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T12:50:24.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\Program.cs",
+              "RelativeDocumentMoniker": "web_museu\\Program.cs",
+              "ToolTip": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\Program.cs",
+              "RelativeToolTip": "web_museu\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T14:55:56.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "web_museu\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "web_museu\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T14:14:22.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\Views\\Shared\\Components\\Menu\\Default.cshtml",
+              "RelativeDocumentMoniker": "web_museu\\Views\\Shared\\Components\\Menu\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\Views\\Shared\\Components\\Menu\\Default.cshtml",
+              "RelativeToolTip": "web_museu\\Views\\Shared\\Components\\Menu\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T13:49:22.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\ViewComponents\\Menu.cs",
+              "RelativeDocumentMoniker": "web_museu\\ViewComponents\\Menu.cs",
+              "ToolTip": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\ViewComponents\\Menu.cs",
+              "RelativeToolTip": "web_museu\\ViewComponents\\Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:49:08.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\wwwroot\\js\\main.js",
+              "RelativeDocumentMoniker": "web_museu\\wwwroot\\js\\main.js",
+              "ToolTip": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\wwwroot\\js\\main.js",
+              "RelativeToolTip": "web_museu\\wwwroot\\js\\main.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-29T12:50:57.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\Views\\Questionario\\Index.cshtml",
+              "RelativeDocumentMoniker": "web_museu\\Views\\Questionario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\Views\\Questionario\\Index.cshtml",
+              "RelativeToolTip": "web_museu\\Views\\Questionario\\Index.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T12:50:41.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Obras.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\Views\\Obras\\Obras.cshtml",
+              "RelativeDocumentMoniker": "web_museu\\Views\\Obras\\Obras.cshtml",
+              "ToolTip": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\Views\\Obras\\Obras.cshtml",
+              "RelativeToolTip": "web_museu\\Views\\Obras\\Obras.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAEsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T12:50:31.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "web_museu\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "web_museu\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T12:46:34.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "web_museu\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "web_museu\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-29T12:46:32.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\appsettings.json",
+              "RelativeDocumentMoniker": "web_museu\\appsettings.json",
+              "ToolTip": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\appsettings.json",
+              "RelativeToolTip": "web_museu\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-29T12:46:24.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_LayoutDeslogado.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\Views\\Shared\\_LayoutDeslogado.cshtml.css",
+              "RelativeDocumentMoniker": "web_museu\\Views\\Shared\\_LayoutDeslogado.cshtml.css",
+              "ToolTip": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\Views\\Shared\\_LayoutDeslogado.cshtml.css",
+              "RelativeToolTip": "web_museu\\Views\\Shared\\_LayoutDeslogado.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-29T12:32:25.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_LayoutDeslogado.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\Views\\Shared\\_LayoutDeslogado.cshtml",
+              "RelativeDocumentMoniker": "web_museu\\Views\\Shared\\_LayoutDeslogado.cshtml",
+              "ToolTip": "C:\\Users\\Gu\\Desktop\\web_museu\\web_museu\\Views\\Shared\\_LayoutDeslogado.cshtml",
+              "RelativeToolTip": "web_museu\\Views\\Shared\\_LayoutDeslogado.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T12:32:06.368Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

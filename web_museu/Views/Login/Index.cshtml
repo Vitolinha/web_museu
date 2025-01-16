@@ -1,0 +1,62 @@
+﻿@model web_museu.Models.LoginModel
+@{
+    Layout = "_LayoutDeslogado"; // Define o layout específico para páginas sem login
+    ViewData["Title"] = "Login"; // Define o título da página
+}
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/login_style.css" asp-append-version="true">
+    <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet">
+    <title>@ViewData["Title"] - AstroMarte</title>
+</head>
+<body>
+    <div class="wrapper">
+        <!-- Exibição de Mensagens de Erro -->
+        @if (TempData["MensagemErro"] != null)
+        {
+            <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                <button type="button" class="btn btn-danger btn-sm close-alert" data-bs-dismiss="alert" aria-label="Close">X</button>
+                @TempData["MensagemErro"]
+            </div>
+        }
+
+        <form asp-action="Entrar" asp-controller="Login" method="post">
+            <h1>Login</h1>
+
+            <!-- Campo para Login -->
+            <div class="input-box">
+                <input asp-for="Login" class="form-control" placeholder="Digite seu login" required />
+                <i class='bx bxs-user'></i>
+                <span class="text-danger">
+                    @Html.ValidationMessageFor(x => x.Login)
+                </span>
+            </div>
+
+            <!-- Campo para Senha -->
+            <div class="input-box">
+                <input asp-for="Senha" type="password" class="form-control" placeholder="Digite sua senha" required />
+                <i class='bx bxs-lock-alt'></i>
+                <span class="text-danger">
+                    @Html.ValidationMessageFor(x => x.Senha)
+                </span>
+            </div>
+
+            <!-- Checkbox para "Lembrar-me" -->
+            <div class="remember-forgot">
+                <label><input type="checkbox" name="RememberMe" /> Remember me</label>
+                <a asp-action="RedefinirSenha" asp-controller="Login">Esqueceu a senha?</a>
+            </div>
+
+            <!-- Botão de Login -->
+            <button type="submit" class="btn">Login</button>
+
+            <!-- Link para Registro -->
+            
+        </form>
+    </div>
+</body>
+</html>

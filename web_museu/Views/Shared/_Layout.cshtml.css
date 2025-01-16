@@ -1,0 +1,128 @@
+﻿/* Ajustes na navbar */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: rgba(255, 255, 255, 0.9); /* Fundo branco com transparência */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra leve */
+    position: fixed;
+    top: 0;
+    left: 0; /* Garante que começa no canto esquerdo */
+    right: 0; /* Garante que termina no canto direito */
+    width: 100vw; /* Ocupa 100% da largura da janela */
+    z-index: 1000; /* Certifique-se de que está acima do conteúdo */
+}
+
+    /* Estilo para o título AstroMarte */
+    .navbar .navbar-brand {
+        font-size: 24px;
+        font-weight: bold;
+        color: #333;
+        margin-right: auto; /* Empurra o título para a esquerda */
+    }
+
+/* Lista de links de navegação */
+.nav-links {
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+    margin-left: auto; /* Empurra os links para a direita */
+    align-items: center;
+}
+
+    .nav-links li {
+        display: inline-block;
+    }
+
+    .nav-links a {
+        text-decoration: none;
+        color: #333;
+        font-weight: 500;
+        transition: color 0.3s;
+    }
+
+        .nav-links a:hover {
+            color: #1b6ec2; /* Cor azul no hover */
+        }
+
+/* Ícone do menu para dispositivos móveis */
+.navbar-toggler {
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+    margin-left: auto; /* Ajusta o menu para o canto direito */
+}
+
+/* Links no menu (ajustes adicionais para responsividade) */
+.navbar-nav {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
+
+.nav-link {
+    font-weight: 500;
+    text-decoration: none;
+    color: #333;
+    transition: color 0.3s ease-in-out;
+}
+
+    .nav-link:hover {
+        color: #1b6ec2;
+    }
+
+/* Estilizando o título dentro da navbar */
+.navbar h2 {
+    margin: 0;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #333;
+}
+
+/* Responsividade para dispositivos móveis */
+@media (max-width: 1440px) {
+    .navbar {
+        padding: 10px 15px;
+    }
+
+    .nav-links {
+        display: none; /* Esconde os links no menu padrão */
+        flex-direction: column;
+        background-color: rgba(255, 255, 255, 0.9);
+        position: absolute;
+        top: 60px; /* Ajuste baseado na altura da navbar */
+        left: 0; /* Certifica-se de começar no canto esquerdo */
+        right: 0; /* Certifica-se de ocupar todo o canto direito */
+        width: 100vw; /* Ocupa toda a largura da tela */
+        gap: 10px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        padding: 10px 0;
+        z-index: 999; /* Certifique-se de que está acima do conteúdo */
+    }
+
+        .nav-links.active {
+            display: flex; /* Mostra os links ao clicar no botão */
+        }
+
+    .navbar-toggler {
+        display: block; /* Mostra o botão apenas em telas pequenas */
+    }
+}
+
+/* Ajustes para telas menores */
+@media (max-width: 576px) {
+    .navbar-brand {
+        font-size: 20px;
+        margin-right: auto;
+    }
+
+    .nav-links {
+        text-align: center;
+    }
+
+        .nav-links a {
+            font-size: 14px;
+        }
+}

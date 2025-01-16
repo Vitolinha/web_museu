@@ -1,0 +1,197 @@
+﻿@model ContatoModel
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/style.css">
+    <title>AstroMarte</title>
+</head>
+<body>
+    <div class="background-preto">
+        <div class="container">
+            <!--cabecalho-->
+            <header>
+                <div class="container">
+                    <nav>
+                        <div class="logo">
+                            <img src="/img/logo_astromarte.png" class="astromarte">
+                        </div>
+                    </nav>
+                </div>
+            </header>
+        </div>
+
+        <main>
+            <div class="container">
+                <div class="main-text">
+                    <h1>Odisséia Rubra</h1>
+                    <h2>Expedição ao Planeta Vermelho</h2>
+                    <div>
+                        <button class="btn-gradient">Reservar agora</button>
+                        <img src="@Url.Content("~/img/verificado.png")" alt="Verificado">
+                    </div>
+                </div>
+                <div class="main-img">
+                    <div class="slider">
+                        <div class="slides">
+                            <input type="radio" name="radio" id="radio1">
+                            <input type="radio" name="radio" id="radio2">
+                            <input type="radio" name="radio" id="radio3">
+                            <input type="radio" name="radio" id="radio4">
+
+                            <div class="slide first">
+                                <img src="~/img/olympus.jpg" alt="imagem 1 montanha" />
+                            </div>
+                            <div class="slide">
+                                <img src="~/img/terra-marte.jpg" alt="imagem 2 semelhanca terra" />
+                            </div>
+                            <div class="slide">
+                                <img src="~/img/ceu-vermelho.jpg" alt="imagem 3 ceu vermelho" />
+                            </div>
+                            <div class="slide">
+                                <img src="~/img/poeira-marte.jpg" alt="imagem 4 tempestade de poeira" />
+                            </div>
+
+                            <div class="navigation-auto">
+                                <div class="auto-btn1"></div>
+                                <div class="auto-btn2"></div>
+                                <div class="auto-btn3"></div>
+                                <div class="auto-btn4"></div>
+                            </div>
+
+                        </div>
+
+
+                        <div class="manual-navigation">
+                            <label for="radio1" class="manual-btn"></label>
+                            <label for="radio2" class="manual-btn"></label>
+                            <label for="radio3" class="manual-btn"></label>
+                            <label for="radio4" class="manual-btn"></label>
+                        </div>
+
+                    </div>
+                </div>
+        </main>
+    </div>
+
+    <section class="satisfacao">
+        <div class="container">
+            <div class="satisfacao-text">
+                Da Terra a Marte: Uma experiência fora deste mundo.
+            </div>
+            <div class="satisfacao-numero">
+                <p><span>+50 mil visitas</span></p>
+                <p><span>+20 funcionários</span></p>
+                <p><span>+60 mil obras</span></p>
+            </div>
+        </div>
+    </section>
+
+    <section class="diferenciais">
+        <div class="container">
+            <div class="card">
+                <img src="/img/mundo.png" alt="mundo">
+                <h3 class="titulo">Mundo</h3>
+                <p>Curiosidades e conhecimentos sobre o pálido ponto azul.</p>
+            </div>
+            <div class="card">
+                <img src="/img/marte.png" alt="marte">
+                <h3 class="titulo">Marte</h3>
+                <p>O novo foco da humanidade para procura de vida fora do planeta.</p>
+            </div>
+            <div class="card">
+                <img src="/img/galaxia.png" alt="galaxia">
+                <h3 class="titulo">Galáxia</h3>
+                <p>A abordagem busca estar cada vez mais abrangente. Poderá o humano saber tudo sobre a galáxia?</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="exposicao">
+        <div class="container">
+            <div class="exposicao-img">
+                <img src="/img/exposicao.jpg" alt="exposicao">
+            </div>
+            <div class="exposicao-text">
+                <h2>Espetáculos interativos e atrações de tirar o fôlego</h2>
+                <p>As apresentações vão a todos os espaços da nossa galáxia, do começo ao fim, de A a Z. Nosso objetivo principal é agregar conhecimento aos nossos espectadores.</p>
+                <img src="/img/user-happy.png" alt="">
+                <p><b>+50 Usuários felizes</b></p>
+            </div>
+        </div>
+    </section>
+
+    <section class="melhores-lugares">
+        <div class="container-lugares">
+            <p class="azul">Agende sua visita!</p>
+            <h2>Exposições de outro mundo para você!</h2>
+            <div class="cards">
+                <div class="card-item">
+                    <img src="/img/museu-vetorizado.png" alt="museu">
+                    <p class="nome-museu">AstroMarte</p>
+                    <p class="local-museu">Rua das Petúnias, 333</p>
+                    <p class="local-museu">Sorocaba, SP</p>
+                    <p class="contato">
+                        (15) 3333-3333 <br> astromarte.expo@gmail.com
+                    </p>
+                    <button>Venha nos visitar!</button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="newsletter">
+        <div class="container-newsletter">
+            <div class="box-newsletter">
+                <h2>Seja inscrito na nossa newsletter</h2>
+                <p>Inscreva-se para receber mais conteúdos, novidades e dicas importantes.</p>
+                <form action="">
+                    <input name="email" type="email" placeholder="Digite seu email">
+                    <button>Inscrever-se</button>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <ul>
+                <h3>Astromarte</h3>
+                <img src="/img/logo_astromarte.png" class="astromarte">
+                <p>Lutando por um mundo com cada vez mais conhecimento do seu entorno.</p>
+                <div class="redes-sociais">
+                    <img src="/img/facebook.png" alt="facebook">
+                    <img src="/img/twitter.png" alt="twitter">
+                    <img src="/img/instagram.png" alt="instagram">
+                    <img src="/img/linkedin.png" alt="linkedin">
+                </div>
+            </ul>
+            <ul>
+                <h3>Link</h3>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Preços</a></li>
+                <li><a href="#">Baixar</a></li>
+                <li><a href="#">Sobre</a></li>
+                <li><a href="#">Serviços</a></li>
+            </ul>
+            <ul>
+                <h3>FAQ</h3>
+                <li><a href="#">Como funciona</a></li>
+                <li><a href="#">Características</a></li>
+                <li><a href="#">Contato</a></li>
+            </ul>
+            <ul>
+                <h3>Nos Contate</h3>
+                <li>+55 (15) 3333-3333</li>
+                <li>astromarte.expo@gmail.com</li>
+                <li>Rua das Petúnias, 333 - Sorocaba, São Paulo - Brasil</li>
+            </ul>
+        </div>
+    </footer>
+
+    <script src="/js/main.js"></script>
+
+</body>
+</html>

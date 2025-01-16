@@ -1,0 +1,71 @@
+﻿@model web_museu.Models.QuestionarioModel
+@{
+    Layout = "_Layout"; // Define o layout específico
+    ViewData["Title"] = "Avaliação";
+}
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/questionario_style.css" asp-append-version="true">
+    <title>@ViewData["Title"] - AstroMarte</title>
+</head>
+<body>
+    <div class="wrapper" style="background-image: url('/img/mars_background.jpg'); background-size: cover; background-position: center;">
+        <form asp-action="Salvar" asp-controller="Questionario" method="post" class="form-box">
+            <h1>Avaliação do Site</h1>
+
+            <!-- Campo para Avaliação do Design -->
+            <div class="input-box">
+                <label for="AvaliacaoDesign">Avaliação do Design (1 a 5):</label>
+                <select asp-for="AvaliacaoDesign" class="form-control" required>
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>
+                <span class="text-danger">@Html.ValidationMessageFor(m => m.AvaliacaoDesign)</span>
+            </div>
+
+            <!-- Campo para Avaliação da Usabilidade -->
+            <div class="input-box">
+                <label for="AvaliacaoUsabilidade">Avaliação da Usabilidade (1 a 5):</label>
+                <select asp-for="AvaliacaoUsabilidade" class="form-control" required>
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>
+                <span class="text-danger">@Html.ValidationMessageFor(m => m.AvaliacaoUsabilidade)</span>
+            </div>
+
+            <!-- Campo para Avaliação do Conteúdo -->
+            <div class="input-box">
+                <label for="AvaliacaoConteudo">Avaliação do Conteúdo (1 a 5):</label>
+                <select asp-for="AvaliacaoConteudo" class="form-control" required>
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>
+                <span class="text-danger">@Html.ValidationMessageFor(m => m.AvaliacaoConteudo)</span>
+            </div>
+
+            <!-- Campo para Sugestão -->
+            <div class="input-box">
+                <label for="Sugestao">Sugestão (Opcional):</label>
+                <textarea asp-for="Sugestao" class="form-control" placeholder="Deixe aqui sua sugestão (opcional)" rows="3"></textarea>
+                <span class="text-danger">@Html.ValidationMessageFor(m => m.Sugestao)</span>
+            </div>
+
+            <!-- Botão de Enviar -->
+            <button type="submit" class="btn btn-submit">Enviar Avaliação</button>
+        </form>
+    </div>
+</body>
+</html>

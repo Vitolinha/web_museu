@@ -1,0 +1,45 @@
+﻿@model UsuarioModel
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light w-100">
+    <div class="container">
+        <!-- Título do site alinhado à esquerda -->
+        <h1 class="navbar-brand text-dark fw-bold custom-title">
+            Astro<span class="text-danger">Marte</span>
+        </h1>
+
+        <!-- Botão de toggle para dispositivos móveis -->
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <!-- Links de navegação alinhados à direita -->
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ms-auto">
+                <li class="nav-item">
+                    <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-dark" asp-area="" asp-controller="Questionario" asp-action="Index">Questionário</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-dark" asp-area="" asp-controller="Obras" asp-action="Obras">Obras</a>
+                </li>
+                @if (Model?.Perfil == web_museu.Enums.PerfilEnum.Admin)
+                {
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" asp-area="" asp-controller="Contato" asp-action="Index">Contatos</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" asp-area="" asp-controller="Usuario" asp-action="Index">Usuários</a>
+                    </li>
+                }
+                <li class="nav-item">
+                    <a class="nav-link text-dark" asp-area="" asp-controller="Login" asp-action="Sair">Sair</a>
+                </li>
+            </ul>
+        </div>
+
+    </div>
+</nav>
+
+

@@ -1,0 +1,139 @@
+C:\Users\gjesu\OneDrive\Área de Trabalho\DS3P17_gustavo_dantas_N057530\web_museu\web_museu\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\gjesu\OneDrive\Área de Trabalho\DS3P17_gustavo_dantas_N057530\web_museu\web_museu\bin\Debug\net7.0\appsettings.json
+C:\Users\gjesu\OneDrive\Área de Trabalho\DS3P17_gustavo_dantas_N057530\web_museu\web_museu\bin\Debug\net7.0\web_museu.staticwebassets.runtime.json
+C:\Users\gjesu\OneDrive\Área de Trabalho\DS3P17_gustavo_dantas_N057530\web_museu\web_museu\bin\Debug\net7.0\web_museu.exe
+C:\Users\gjesu\OneDrive\Área de Trabalho\DS3P17_gustavo_dantas_N057530\web_museu\web_museu\bin\Debug\net7.0\web_museu.deps.json
+C:\Users\gjesu\OneDrive\Área de Trabalho\DS3P17_gustavo_dantas_N057530\web_museu\web_museu\bin\Debug\net7.0\web_museu.runtimeconfig.json
+C:\Users\gjesu\OneDrive\Área de Trabalho\DS3P17_gustavo_dantas_N057530\web_museu\web_museu\bin\Debug\net7.0\web_museu.dll
+C:\Users\gjesu\OneDrive\Área de Trabalho\DS3P17_gustavo_dantas_N057530\web_museu\web_museu\bin\Debug\net7.0\web_museu.pdb
+C:\Users\gjesu\OneDrive\Área de Trabalho\DS3P17_gustavo_dantas_N057530\web_museu\web_museu\obj\Debug\net7.0\web_museu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gjesu\OneDrive\Área de Trabalho\DS3P17_gustavo_dantas_N057530\web_museu\web_museu\obj\Debug\net7.0\web_museu.AssemblyInfoInputs.cache
+C:\Users\gjesu\OneDrive\Área de Trabalho\DS3P17_gustavo_dantas_N057530\web_museu\web_museu\obj\Debug\net7.0\web_museu.AssemblyInfo.cs
+C:\Users\gjesu\OneDrive\Área de Trabalho\DS3P17_gustavo_dantas_N057530\web_museu\web_museu\obj\Debug\net7.0\web_museu.csproj.CoreCompileInputs.cache
+C:\Users\gjesu\OneDrive\Área de Trabalho\DS3P17_gustavo_dantas_N057530\web_museu\web_museu\obj\Debug\net7.0\web_museu.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gjesu\OneDrive\Área de Trabalho\DS3P17_gustavo_dantas_N057530\web_museu\web_museu\obj\Debug\net7.0\web_museu.RazorAssemblyInfo.cache
+C:\Users\gjesu\OneDrive\Área de Trabalho\DS3P17_gustavo_dantas_N057530\web_museu\web_museu\obj\Debug\net7.0\web_museu.RazorAssemblyInfo.cs
+C:\Users\gjesu\OneDrive\Área de Trabalho\DS3P17_gustavo_dantas_N057530\web_museu\web_museu\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\gjesu\OneDrive\Área de Trabalho\DS3P17_gustavo_dantas_N057530\web_museu\web_museu\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\gjesu\OneDrive\Área de Trabalho\DS3P17_gustavo_dantas_N057530\web_museu\web_museu\obj\Debug\net7.0\staticwebassets\msbuild.web_museu.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gjesu\OneDrive\Área de Trabalho\DS3P17_gustavo_dantas_N057530\web_museu\web_museu\obj\Debug\net7.0\staticwebassets\msbuild.build.web_museu.props
+C:\Users\gjesu\OneDrive\Área de Trabalho\DS3P17_gustavo_dantas_N057530\web_museu\web_museu\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.web_museu.props
+C:\Users\gjesu\OneDrive\Área de Trabalho\DS3P17_gustavo_dantas_N057530\web_museu\web_museu\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.web_museu.props
+C:\Users\gjesu\OneDrive\Área de Trabalho\DS3P17_gustavo_dantas_N057530\web_museu\web_museu\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\gjesu\OneDrive\Área de Trabalho\DS3P17_gustavo_dantas_N057530\web_museu\web_museu\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\gjesu\OneDrive\Área de Trabalho\DS3P17_gustavo_dantas_N057530\web_museu\web_museu\obj\Debug\net7.0\scopedcss\bundle\web_museu.styles.css
+C:\Users\gjesu\OneDrive\Área de Trabalho\DS3P17_gustavo_dantas_N057530\web_museu\web_museu\obj\Debug\net7.0\scopedcss\projectbundle\web_museu.bundle.scp.css
+C:\Users\gjesu\OneDrive\Área de Trabalho\DS3P17_gustavo_dantas_N057530\web_museu\web_museu\obj\Debug\net7.0\web_museu.dll
+C:\Users\gjesu\OneDrive\Área de Trabalho\DS3P17_gustavo_dantas_N057530\web_museu\web_museu\obj\Debug\net7.0\refint\web_museu.dll
+C:\Users\gjesu\OneDrive\Área de Trabalho\DS3P17_gustavo_dantas_N057530\web_museu\web_museu\obj\Debug\net7.0\web_museu.pdb
+C:\Users\gjesu\OneDrive\Área de Trabalho\DS3P17_gustavo_dantas_N057530\web_museu\web_museu\obj\Debug\net7.0\web_museu.genruntimeconfig.cache
+C:\Users\gjesu\OneDrive\Área de Trabalho\DS3P17_gustavo_dantas_N057530\web_museu\web_museu\obj\Debug\net7.0\ref\web_museu.dll
+C:\Users\Vitor\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Vitor\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\appsettings.json
+C:\Users\Vitor\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\web_museu.staticwebassets.runtime.json
+C:\Users\Vitor\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\web_museu.exe
+C:\Users\Vitor\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\web_museu.deps.json
+C:\Users\Vitor\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\web_museu.runtimeconfig.json
+C:\Users\Vitor\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\web_museu.dll
+C:\Users\Vitor\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\web_museu.pdb
+C:\Users\Vitor\Downloads\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\web_museu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor\Downloads\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\web_museu.AssemblyInfoInputs.cache
+C:\Users\Vitor\Downloads\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\web_museu.AssemblyInfo.cs
+C:\Users\Vitor\Downloads\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\web_museu.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Downloads\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\web_museu.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vitor\Downloads\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\web_museu.RazorAssemblyInfo.cache
+C:\Users\Vitor\Downloads\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\web_museu.RazorAssemblyInfo.cs
+C:\Users\Vitor\Downloads\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Vitor\Downloads\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Vitor\Downloads\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\staticwebassets\msbuild.web_museu.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Vitor\Downloads\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\staticwebassets\msbuild.build.web_museu.props
+C:\Users\Vitor\Downloads\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.web_museu.props
+C:\Users\Vitor\Downloads\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.web_museu.props
+C:\Users\Vitor\Downloads\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Vitor\Downloads\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Vitor\Downloads\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\scopedcss\bundle\web_museu.styles.css
+C:\Users\Vitor\Downloads\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\scopedcss\projectbundle\web_museu.bundle.scp.css
+C:\Users\Vitor\Downloads\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\web_museu.dll
+C:\Users\Vitor\Downloads\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\refint\web_museu.dll
+C:\Users\Vitor\Downloads\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\web_museu.pdb
+C:\Users\Vitor\Downloads\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\web_museu.genruntimeconfig.cache
+C:\Users\Vitor\Downloads\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\ref\web_museu.dll
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\appsettings.json
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\web_museu.staticwebassets.runtime.json
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\web_museu.exe
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\web_museu.deps.json
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\web_museu.runtimeconfig.json
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\web_museu.dll
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\web_museu.pdb
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\web_museu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\web_museu.AssemblyInfoInputs.cache
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\web_museu.AssemblyInfo.cs
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\web_museu.csproj.CoreCompileInputs.cache
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\web_museu.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\web_museu.RazorAssemblyInfo.cache
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\web_museu.RazorAssemblyInfo.cs
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\staticwebassets\msbuild.web_museu.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\staticwebassets\msbuild.build.web_museu.props
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.web_museu.props
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.web_museu.props
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\scopedcss\bundle\web_museu.styles.css
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\scopedcss\projectbundle\web_museu.bundle.scp.css
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\web_museu.dll
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\refint\web_museu.dll
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\web_museu.pdb
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\web_museu.genruntimeconfig.cache
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\ref\web_museu.dll
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\web_museu.csproj.AssemblyReference.cache
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\Humanizer.dll
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\web_museu.csproj.Up2Date
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gjesu\Downloads\web_museu_att\web_museu\web_museu\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gu\Desktop\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\web_museu.csproj.AssemblyReference.cache
+C:\Users\Gu\Desktop\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\web_museu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gu\Desktop\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\web_museu.AssemblyInfoInputs.cache
+C:\Users\Gu\Desktop\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\web_museu.AssemblyInfo.cs
+C:\Users\Gu\Desktop\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\web_museu.csproj.CoreCompileInputs.cache
+C:\Users\Gu\Desktop\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\web_museu.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gu\Desktop\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\web_museu.RazorAssemblyInfo.cache
+C:\Users\Gu\Desktop\web_museu_att\web_museu\web_museu\obj\Debug\net7.0\web_museu.RazorAssemblyInfo.cs

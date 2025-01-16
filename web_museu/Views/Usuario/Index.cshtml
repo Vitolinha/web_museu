@@ -1,0 +1,88 @@
+﻿@using X.PagedList
+@using X.PagedList.Mvc.Core
+
+@model IPagedList<web_museu.Models.UsuarioModel>
+
+@{
+    ViewData["Title"] = "Listagem de Usuarios";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Listagem de Usuarios</h1>
+
+    <!-- Campo de busca -->
+    <form asp-action="Index" method="get" class="form-inline justify-content-center mb-4">
+        <input type="text" name="busca" class="form-control mr-2 w-50" value="@ViewBag.BuscaAtual" placeholder="Buscar por nome ou e-mail" />
+        <button type="submit" class="btn btn-primary">Buscar</button>
+    </form>
+
+    <!-- Botão de Adicionar Contato -->
+    <div class="d-grid gap-2 d-md-flex justify-content-md-start mb-3">
+        <a class="btn btn-success" role="button" asp-controller="Usuario" asp-action="Criar">Adicionar Novo Usuario</a>
+    </div>
+
+    <!-- Tabela de contatos -->
+    <table id="table-usuarios" class="table table-striped table-bordered">
+        <thead class="table-dark">
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Nome</th>
+                <th scope="col">Login</th>
+                <th scope="col">Email</th>
+                <th scope="col">Perfil</th>
+                <th scope="col">Data de cadastro</th>
+                <th class="col">Ações</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model != null && Model.Any())
+            {
+                foreach (var usuario in Model)
+                {
+                    <tr>
+                        <td scope="row">@usuario.Id</td>
+                        <td>@usuario.Nome</td>
+                        <td>@usuario.Login</td>
+                        <td>@usuario.Email</td>
+                        <td>@(usuario.Perfil == web_museu.Enums.PerfilEnum.Admin ? "Administrador" : "Padrão")</td>
+                        <td>@usuario.DataCadastro</td>
+                        <td class="text-center">
+                            <a class="btn btn-warning btn-sm" asp-route-id="@usuario.Id" asp-controller="Usuario" asp-action="Editar">Editar</a>
+                            <a class="btn btn-danger btn-sm" asp-route-id="@usuario.Id" asp-controller="Usuario" asp-action="ApagarConfirmacao">Apagar</a>
+                        </td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="5" class="text-center">Nenhum usuario encontrado.</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <!-- Paginação -->
+    <div class="text-center">
+        @Html.PagedListPager(
+                 Model,
+                 page => Url.Action("Index", new { pagina = page, busca = ViewBag.BuscaAtual }),
+                 new PagedListRenderOptions
+        {
+            DisplayLinkToFirstPage = PagedListDisplayMode.Always,
+            DisplayLinkToLastPage = PagedListDisplayMode.Always,
+            DisplayLinkToPreviousPage = PagedListDisplayMode.Always,
+            DisplayLinkToNextPage = PagedListDisplayMode.Always,
+            MaximumPageNumbersToDisplay = 5,
+            DisplayEllipsesWhenNotShowingAllPageNumbers = true,
+            LinkToFirstPageFormat = "Primeira",
+            LinkToLastPageFormat = "Última",
+            LinkToPreviousPageFormat = "Anterior",
+            LinkToNextPageFormat = "Próxima",
+            ContainerDivClasses = new[] { "pagination", "justify-content-center" },
+            UlElementClasses = new[] { "pagination" },
+            LiElementClasses = new[] { "page-item" },
+            PageClasses = new[] { "page-link" }
+        })
+    </div>
+</div>

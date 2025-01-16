@@ -1,0 +1,7 @@
+C:\Users\gjesu\OneDrive\Área de Trabalho\DS3P17_gustavo_dantas_N057530\web_museu\web_museu\obj\Debug\netcoreapp3.1\web_museu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gjesu\OneDrive\Área de Trabalho\DS3P17_gustavo_dantas_N057530\web_museu\web_museu\obj\Debug\netcoreapp3.1\web_museu.AssemblyInfoInputs.cache
+C:\Users\gjesu\OneDrive\Área de Trabalho\DS3P17_gustavo_dantas_N057530\web_museu\web_museu\obj\Debug\netcoreapp3.1\web_museu.AssemblyInfo.cs
+C:\Users\gjesu\OneDrive\Área de Trabalho\DS3P17_gustavo_dantas_N057530\web_museu\web_museu\obj\Debug\netcoreapp3.1\web_museu.csproj.CoreCompileInputs.cache
+C:\Users\gjesu\OneDrive\Área de Trabalho\DS3P17_gustavo_dantas_N057530\web_museu\web_museu\obj\Debug\netcoreapp3.1\web_museu.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gjesu\OneDrive\Área de Trabalho\DS3P17_gustavo_dantas_N057530\web_museu\web_museu\obj\Debug\netcoreapp3.1\web_museu.RazorAssemblyInfo.cache
+C:\Users\gjesu\OneDrive\Área de Trabalho\DS3P17_gustavo_dantas_N057530\web_museu\web_museu\obj\Debug\netcoreapp3.1\web_museu.RazorAssemblyInfo.cs

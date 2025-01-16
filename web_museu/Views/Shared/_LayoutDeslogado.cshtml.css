@@ -1,0 +1,90 @@
+﻿/* Ajustes na navbar */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: rgba(255, 255, 255, 0.9);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+}
+
+/* Estilo para o título AstroMarte */
+.navbar .navbar-brand {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    margin-right: auto; /* Empurra o título para a esquerda */
+}
+
+/* Lista de links de navegação */
+.nav-links {
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+    margin-left: auto; /* Empurra os links para a direita */
+}
+
+.nav-links li {
+    display: inline-block;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: #333;
+    font-weight: 500;
+    transition: color 0.3s;
+}
+
+.nav-links a:hover {
+    color: #1b6ec2;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.nav-link {
+    color: #333;
+}
+
+.nav-link:hover {
+    color: #1b6ec2;
+}
+
+.navbar h2 {
+    margin: 0;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #333;
+}
+.navbar-toggler {
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    margin-left: auto; /* Ajusta o menu para o canto direito */
+}
+
+.navbar-nav {
+    gap: 15px;
+}
+
+.nav-link {
+    font-weight: 500;
+}
+
+@media (max-width: 576px) {
+    .navbar-nav {
+        text-align: center;
+        max-width: 1440px;
+        width: 100%;
+    }
+
+    .navbar-brand {
+        margin-right: auto;
+    }
+}
